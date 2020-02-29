@@ -1,5 +1,5 @@
 # aafire (ASCII Art Fire!)
-## This is a demonstration program of the 'aalib' (ASCII Art library), it displays a video of a fire in ASCII text. Note: Press 'q' to quit.
+## Docker Container: A demo of the 'aalib' (ASCII Library), displays a video of fire in ASCII text.  Note: Press 'q' to quit.
 
 ## aalib (Project Info)
 [Website](http://aa-project.sourceforge.net/aalib/)
@@ -13,8 +13,7 @@
 ## Docker Push
 `$ docker push -t macabees/aafire:latest`
 
-Note: requires: `docker login`
+Note: requires `docker login`
 
 ## Run image
 `$ docker run -it --rm macabees/aafire`
-
