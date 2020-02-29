@@ -1,5 +1,7 @@
 # aafire (ASCII Art Fire!)
-Docker Container: A demo of the 'aalib' (ASCII Library), displays a video of fire in ASCII text.  Note: Press 'q' to quit.
+Docker Container: A demo of the 'aalib' (ASCII Library), displays a video of fire in ASCII text.
+
+Note: Press 'q' to quit.
 
 ## aalib (Project Info)
 [Website](http://aa-project.sourceforge.net/aalib/)
