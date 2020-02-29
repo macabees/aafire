@@ -12,6 +12,7 @@
 
 ## Docker Push
 `$ docker push -t macabees/aafire:latest`
+
 Note: requires: `docker login`
 
 ## Run image
