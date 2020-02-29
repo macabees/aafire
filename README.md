@@ -10,5 +10,10 @@
 ## Build image
 `$ docker build -t macabees/aafire:latest .`
 
+## Docker Push
+`$ docker push -t macabees/aafire:latest`
+Note: requires: `docker login`
+
 ## Run image
 `$ docker run -it --rm macabees/aafire`
+
