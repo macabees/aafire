@@ -1,4 +1,4 @@
-#aafire (ASCII Art Fire!)
+# aafire (ASCII Art Fire!)
 ## This is a demonstration program of the 'aalib' (ASCII Art library), it displays a video of a fire in ASCII text. Note: Press 'q' to quit.
 
 ## aalib (Project Info)
