@@ -19,3 +19,6 @@ Note: requires `docker login`
 
 ## Run image
 `$ docker run -it --rm macabees/aafire`
+
+## Help
+`$ docker run -it --rm macabees/aafire --help`
